@@ -1,0 +1,17 @@
+/*
+  Localizable.strings
+  FlightCenterRebuiltForGit
+
+  Created by Corry Timothy on 22/4/2023.
+  
+*/
+
+"Flights" = "Flights";
+"Departure City" = "Departure City";
+"Arrival City" = "Arrival City";
+"Trips" = "Trips";
+"Flight" = "Flight";
+"Gate" = "Gate";
+"Terminal" = "Terminal";
+"Seat" = "Seat";
+

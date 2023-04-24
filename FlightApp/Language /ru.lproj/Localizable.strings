@@ -1,0 +1,16 @@
+/*
+  Localizable.strings
+  FlightCenterRebuiltForGit
+
+  Created by Corry Timothy on 22/4/2023.
+  
+*/
+
+"Flights" = "Рейсы";
+"Departure City" = "Город отправления";
+"Arrival City" = "Город прибытия";
+"Trips" = "Поездки";
+"Flight" = "Полет";
+"Gate" = "Ворота";
+"Terminal" = "Терминал";
+"Seat" = "Сиденье";
